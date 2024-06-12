@@ -14,9 +14,9 @@
 
 ---
 #### Repos.
-* Private 🤫 (private repos would be only opened by request)
-  * pm_img_prediction
+* Private codes 🤫 (Private repos will only be opened upon request)
+  * pm_img_prediction (_...updating..._)
   * multiagent reinforcement learning-based optimization <a href="https://www.sciencedirect.com/science/article/pii/S2214714423000508"><img src="https://img.shields.io/badge/Paper-FF6C00?style=flat-square&logo=elsevier&logoColor=white"/></a>
   * multiagent reinforcement learning-based calibration <a href="https://www.sciencedirect.com/science/article/pii/S2214714424001387"><img src="https://img.shields.io/badge/Paper-FF6C00?style=flat-square&logo=elsevier&logoColor=white"/></a>
-* Public 😋
+* Public codes 😋
   * Programming_thinking (TBU)
