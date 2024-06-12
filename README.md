@@ -10,11 +10,12 @@
 * **Programming** : Python, Matlab, SQL
 * **Site** : <a href="https://sites.google.com/view/iesel"><img src="https://img.shields.io/badge/iESEL-2E3192?style=flat-square&logo=googlehome&logoColor=white"/></a>
 * **Google scholar** : <a href="https://scholar.google.co.kr/citations?user=bDhkEQEAAAAJ&hl=ko"><img src="https://img.shields.io/badge/scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white"/></a>
+* **Mail** : kjnam@pknu.ac.kr
 
 ---
 #### Repos.
-* Private 🤫
+* Private 🤫 (private repos would be only opened by request)
   * pm_img_prediction
   * multiagent reinforcement learning
 * Public 😋
-  * Programming_thinking
+  * Programming_thinking (TBU)
