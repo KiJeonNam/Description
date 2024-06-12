@@ -16,6 +16,8 @@
 #### Repos.
 * Private codes 🤫 (Private repos will only be opened upon request)
   * PM10 concentration prediction using images (_...updating..._)
+  * Offline reinforcement learning-based PID controller tuning
+  <br/> ![image](https://github.com/KiJeonNam/Description/assets/37144787/6eccd5bd-8379-4c0d-a21c-4e8b842bdafd)
   * multiagent reinforcement learning-based optimization <a href="https://www.sciencedirect.com/science/article/pii/S2214714423000508"><img src="https://img.shields.io/badge/Paper-FF6C00?style=flat-square&logo=elsevier&logoColor=white"/></a>
   <br/> ![image](https://github.com/KiJeonNam/Description/assets/37144787/75d140c6-bf83-45f8-90bf-36d414125d12)
   * multiagent reinforcement learning-based calibration <a href="https://www.sciencedirect.com/science/article/pii/S2214714424001387"><img src="https://img.shields.io/badge/Paper-FF6C00?style=flat-square&logo=elsevier&logoColor=white"/></a>
